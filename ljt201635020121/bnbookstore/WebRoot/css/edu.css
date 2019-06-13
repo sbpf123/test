@@ -1,0 +1,43 @@
+BODY {
+	MARGIN: 0px; 
+	BACKGROUND-COLOR: #fff;
+	font-family:"宋体";
+	font-size:12px;
+}
+a{
+font-family:"宋体";
+font-size:12px;
+color:#000000;}
+a:link{
+text-decoration:underline;}
+a:hover{
+color:#FF9600;}
+
+.txtbox input{
+font-family:"宋体";
+font-size:12px;
+color:#000000;
+border:#000000 1px solid;
+width:100px;
+height:18px;
+}
+.btn_s input{
+font-family:"宋体";
+font-size:12px;
+color:#000000;
+background:url(../images/btn.gif) no-repeat;
+border:0px;
+width:63px;
+height:24px;
+}
+.w_title{
+color:#FFFFFF;
+font-family:"宋体";
+font-size:14px;
+font-weight:bold;}
+.b_title{
+color:#000;
+font-family:"宋体";
+font-size:14px;
+font-weight:bold;
+padding-left:15px;}
